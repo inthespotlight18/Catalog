@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using Catalog.Entities;
-using System;
 using System.Linq;
 
 namespace Catalog.Repositories
